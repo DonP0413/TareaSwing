@@ -101,11 +101,7 @@ public class operacionesbasicas  extends JFrame{
         });
     }
 
-
-
-
-
-    public static void main(String[] args) { // Main method
+    public static void main(String[] args) {
         new operacionesbasicas();
 
 
